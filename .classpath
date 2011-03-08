@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/alejandragarcia/Developer/NAGRA/workspace/SemanticTools/lib/commons-beanutils-bean-collections-1.8.0.jar"/>
+	<classpathentry kind="lib" path="/Users/alejandragarcia/Developer/NAGRA/workspace/SemanticTools/lib/commons-beanutils-core-1.8.0.jar"/>
+	<classpathentry kind="lib" path="/Users/alejandragarcia/Developer/NAGRA/workspace/SemanticTools/lib/commons-digester-2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/alejandragarcia/Developer/NAGRA/workspace/SemanticTools/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/alejandragarcia/Developer/NAGRA/workspace/SemanticTools/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/alejandragarcia/Developer/NAGRA/workspace/SemanticTools/lib/json.jar"/>
+	<classpathentry kind="lib" path="/Users/alejandragarcia/Developer/NAGRA/workspace/SemanticTools/lib/icu4j-3.4.4.jar"/>
+	<classpathentry kind="lib" path="/Users/alejandragarcia/Developer/NAGRA/workspace/SemanticTools/lib/iri-0.7.jar"/>
+	<classpathentry kind="lib" path="/Users/alejandragarcia/Developer/NAGRA/workspace/SemanticTools/lib/jena-2.6.2.jar"/>
+	<classpathentry kind="lib" path="/Users/alejandragarcia/Developer/NAGRA/workspace/SemanticTools/lib/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="/Users/alejandragarcia/Developer/NAGRA/workspace/SemanticTools/lib/simmetrics_jar_v1_6_2_d07_02_07.jar"/>
+	<classpathentry kind="lib" path="/Users/alejandragarcia/Developer/NAGRA/workspace/SemanticTools/lib/slf4j-api-1.5.6.jar"/>
+	<classpathentry kind="lib" path="/Users/alejandragarcia/Developer/NAGRA/workspace/SemanticTools/lib/slf4j-log4j12-1.5.6.jar"/>
+	<classpathentry kind="lib" path="/Users/alejandragarcia/Developer/NAGRA/workspace/SemanticTools/lib/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/alejandragarcia/Developer/NAGRA/workspace/SemanticTools/lib/wstx-asl-3.2.9.jar"/>
+	<classpathentry kind="lib" path="/Users/alejandragarcia/Developer/NAGRA/workspace/SemanticTools/lib/xercesImpl-2.7.1.jar"/>
+	<classpathentry kind="lib" path="/Users/alejandragarcia/Developer/NAGRA/workspace/SemanticTools/lib/arq-2.8.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
