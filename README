@@ -1,1 +1,9 @@
-Semantic Tools is a library that helps on the Link Open data process with existing open data sources Dbpedia and Freebase.
+
+LinkDataTools
+creator: Alejandra Garcia-Rojas
+date: 2 February 2011
+
+Link Tools is a library that helps to create the owl:sameAs rleation
+between your resources and resources on the open data repositories:
+-DBpedia
+-Freebase
