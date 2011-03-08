@@ -82,7 +82,7 @@ public class FreebaseResult {
 			String 		id = json.getString("id");
 			subject = model.createResource(FREEBASE_NS+ (id.substring(1, id.length())).replace("/","."));
 			
-			Iterator keys = json.keys();		
+			Iterator<String> keys = json.keys();		
 			while(keys.hasNext()){
 				String key = (String) keys.next();
 				if(key.equals("id")){}
